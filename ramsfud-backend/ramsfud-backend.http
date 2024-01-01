@@ -1,0 +1,6 @@
+@ramsfud_backend_HostAddress = http://localhost:5077
+
+GET {{ramsfud_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
